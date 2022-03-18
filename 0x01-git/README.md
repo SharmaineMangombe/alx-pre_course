@@ -1,1 +1,1 @@
-My first readme in git
+#!/bin/bash\
